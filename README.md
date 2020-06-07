@@ -2,5 +2,5 @@
 
 ## DEMO
 
-* This is a blog plattform for multipal users.
+* This is a blog platform for multipal users.
 * Share information about mountain and everything related to the topic.
